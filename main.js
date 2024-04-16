@@ -5,11 +5,11 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("O que o Vest6ibular causa?");
+    var respostaTime = prompt("O que o Vestibular causa?");
 
     
     if (respostaTime.toLowerCase() === "ansiedade") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+      alert("Isso mesmo a doença mental mais abangente hoje em dia");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
