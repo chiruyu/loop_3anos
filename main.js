@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("O que   o Vestibular causa?");
+    var respostaTime = prompt("O que o Vestibular causa?");
 
     
     if (respostaTime.toLowerCase() === "ansiedade") {
