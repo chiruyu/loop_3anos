@@ -9,7 +9,7 @@ function verificarTime() {
 
     
     if (respostaTime.toLowerCase() === "ansiedade") {
-      alert("Isso mesmo a doença mental mais abangente hoje em dia");
+      alert("Isso mesmo a doença mental mais abrangente hoje em dia");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
       alert("Não é isso! Tente novamente.");
